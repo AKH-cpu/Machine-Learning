@@ -8,4 +8,3 @@ The following repository contains the implementation of some Machine Learning al
 - Kmeans
 - Naive Bayes
 - Random Forest
-- 
