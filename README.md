@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning in R
 
 The following repository contains the implementation of some Machine Learning algorithms in R:
 
