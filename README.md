@@ -1,6 +1,6 @@
 # Machine-Learning
 
-The following repository contains the implementation of some Machine Learning algorithms:
+The following repository contains the implementation of some Machine Learning algorithms in R:
 
 - Algorithm Apriori
 - DBSCAN
